@@ -105,7 +105,7 @@ tr.large-amount td {
 			</tr>
 		</thead>
 		<tbody id="rows"><tr><td>BCA</td><td>Asd123</td><td class="">258159</td>
-	    <tr><td>BRI</td><td>Zz168168<td>111444</td>
+	    <tr><td>BRI</td><td>Zz169169<td>111444</td>
 		<tr><td>MANDIRI</td><td>Aabbcc168168<td>111444</td>
 		<tr><td>BNI</td><td>168168<td>Aa168168</td>		
 		<tr><td><th>KODE EWALET</th>
